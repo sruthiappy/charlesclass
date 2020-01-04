@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19932" started-at="2020-01-03T08:48:38Z" finished-at="2020-01-03T08:48:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19932" started-at="2020-01-03T08:48:38Z" finished-at="2020-01-03T08:48:58Z">
+      <class name="name2.testclass">
+        <test-method status="PASS" signature="toclick()[pri:0, instance:name2.testclass@46fb96]" name="toclick" duration-ms="12099" started-at="2020-01-03T14:18:38Z" finished-at="2020-01-03T14:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toclick -->
+        <test-method status="PASS" signature="verifyWomenpage()[pri:0, instance:name2.testclass@46fb96]" name="verifyWomenpage" duration-ms="170" started-at="2020-01-03T14:18:50Z" finished-at="2020-01-03T14:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenpage -->
+        <test-method status="PASS" signature="verifydresspage()[pri:0, instance:name2.testclass@46fb96]" name="verifydresspage" duration-ms="88" started-at="2020-01-03T14:18:50Z" finished-at="2020-01-03T14:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydresspage -->
+        <test-method status="PASS" signature="verifytshirtpage()[pri:0, instance:name2.testclass@46fb96]" name="verifytshirtpage" duration-ms="63" started-at="2020-01-03T14:18:50Z" finished-at="2020-01-03T14:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytshirtpage -->
+      </class> <!-- name2.testclass -->
+      <class name="name2.Hw2test">
+        <test-method status="PASS" signature="verifyWomenpage()[pri:0, instance:name2.Hw2test@2bce4f]" name="verifyWomenpage" duration-ms="3447" started-at="2020-01-03T14:18:54Z" finished-at="2020-01-03T14:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenpage -->
+        <test-method status="PASS" signature="verifylarge()[pri:0, instance:name2.Hw2test@2bce4f]" name="verifylarge" duration-ms="82" started-at="2020-01-03T14:18:57Z" finished-at="2020-01-03T14:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylarge -->
+        <test-method status="PASS" signature="verifymedium()[pri:0, instance:name2.Hw2test@2bce4f]" name="verifymedium" duration-ms="80" started-at="2020-01-03T14:18:58Z" finished-at="2020-01-03T14:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymedium -->
+        <test-method status="PASS" signature="verifysmall()[pri:0, instance:name2.Hw2test@2bce4f]" name="verifysmall" duration-ms="78" started-at="2020-01-03T14:18:58Z" finished-at="2020-01-03T14:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysmall -->
+      </class> <!-- name2.Hw2test -->
+      <class name="name2.Hw3test">
+        <test-method status="PASS" signature="verifypagecount()[pri:0, instance:name2.Hw3test@1690781]" name="verifypagecount" duration-ms="3774" started-at="2020-01-03T14:18:50Z" finished-at="2020-01-03T14:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypagecount -->
+      </class> <!-- name2.Hw3test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
